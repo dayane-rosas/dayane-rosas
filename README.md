@@ -88,7 +88,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/dayane-rosas/dayanerosas/blob/output/github-contribution-grid-snake.svg)
+  ![](https://github.com/dayane-rosas/snk/raw/output/github-contribution-grid-snake.svg)
   
 </div>
   
