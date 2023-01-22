@@ -93,7 +93,7 @@
 </div>
   
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart:</p>
   <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/carolbarbosa101">Carolina Barbosa</a> </p>
 </div>
   
