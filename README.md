@@ -1,8 +1,10 @@
+
 ![Profile views](https://gpvc.arturio.dev/dayane-rosas)
   
 <div>
   <h1 align="left">
-  👋🏼Olá mundo, eu sou Dayane Rosas🥰
+  👋🏼Olá mundo, eu sou 
+    <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/">Dayane Rosas 🥰
   </h1>
   </div>
 
