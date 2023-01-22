@@ -88,8 +88,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/dayane-rosas/dayane-rosas/blob/output/github-contribution-grid-snake.gif)
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
   
 </div>
   
