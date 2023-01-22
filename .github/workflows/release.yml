@@ -42,7 +42,7 @@ jobs:
             platane/snk:${{ github.event.inputs.version }}
       - name: update action.yml to point to the newly created docker image
         run: |
-          sed -i "s/image: .*/image: docker:\/\/platane\/snk@${{ steps.docker-build.outputs.digest }}/" action.yml
+          sed -i "s/image: .*/image: docker:\/\/dayane-rosas\/snk@${{ steps.docker-build.outputs.digest }}/" action.yml
       - uses: actions/setup-node@v2
         with:
           cache: yarn
