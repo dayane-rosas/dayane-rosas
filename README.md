@@ -4,7 +4,7 @@
 <div>
   <h1 align="left">
   👋🏼Olá mundo, eu sou 
-    <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/">Dayane Rosas 🥰
+    <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/">Dayane Rosas🥰
   </h1>
   </div>
 
@@ -75,7 +75,7 @@
   
 </div>
   
- ##
+##
 
 <div> 
 
@@ -85,11 +85,11 @@
 
 <div align="center">
 
- ![Snake animation](https://github.com/dayane-rosas/dayanerosas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dayane-rosas/dayanerosas/blob/output/github-contribution-grid-snake.svg)
   
-  </div>
-
- ##
-
-<div> 
+</div>
+  
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
