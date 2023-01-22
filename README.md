@@ -91,6 +91,3 @@
 
 <div> 
 </div>
-<div align="center">
-  <p>Adaptado de: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/andreinaoliveira">Andreina Oliveira</a> </p> 
-</div>
