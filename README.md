@@ -95,7 +95,7 @@
   
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+  <p>Créditos: <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> e <a href="https://github.com/carolbarbosa101">Carolina Barbosa</a> </p>
 </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
