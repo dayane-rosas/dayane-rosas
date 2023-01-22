@@ -9,7 +9,7 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=👋🏼HELLO+WORD,+my+name+is+Dayane+Rosas🥰;🍃I'm+35+years+old🍃;⭐️I'm+from+Brazil⭐️;💁‍I+Graduated+in+Information+Systems🙅‍;✨Be+Welcome✨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=👋🏼HELLO+WORD,+my+name+is+Dayane+Rosas🥰;🍃I'm+35+years+old🍃;⭐️I'm+from+Brazil⭐️;💁‍I+Graduated+in+Information+Systems🙅‍;💁‍I+have+Postgraduate+in+Quality+Management🙅‍;💁‍I+have+an+MBA+in+Project+Management🙅‍;✨Be+Welcome+Again✨)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
