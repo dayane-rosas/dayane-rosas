@@ -3,9 +3,13 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
+<div align="center">
+  <a href="https://github.com/dayane-rosas">
+    <img src="welcome.gif" width="500">
+  </a>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Dayane+Rosas;I'm+35+years+old;I'm+from+Brazil;I+Graduated+in+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -13,19 +17,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-  
-<div>
-  <h1 align="left">
-  👋🏼Olá mundo, eu sou 
-    <a href="https://www.linkedin.com/in/dayane-rosas-de-souza-22b9b2104/">Dayane Rosas🥰
-  </h1>
-  </div>
-
-<div align="center">
-  <a href="https://github.com/dayane-rosas">
-    <img src="welcome.gif" width="500">
-  </a>
-</div>
 
 ## 🍃 Sobre 
 <div align='left'>
