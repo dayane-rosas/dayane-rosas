@@ -23,7 +23,7 @@
 </div><br>
 
   <p align="left">
-👩‍🎓Possuo MBI em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi;
+👩‍🎓Possuo MBA em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi;
 <p align="left">
   <p align="left">
 👩‍🎓Sou Bacharela em Sistemas de Informação - UFAM/ICET;
