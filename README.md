@@ -22,25 +22,22 @@
   <b> ✨ "Seja a mudança que você quer ver no mundo" - Mahatma Gandhi</b>
 </div><br>
 
-  <p align="left">
+ <p align="left">
+👩‍🎓Mestranda em Science in Emergent Technologies in Education - Must University;
+<p align="left">
 👩‍🎓Possuo MBA em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi;
-<p align="left">
-  <p align="left">
+ <p align="left">
 👩‍🎓Sou Bacharela em Sistemas de Informação - UFAM/ICET;
-<p align="left">
 <p align="left">
 👩‍🏫Atualmente sou professora na Faculdade de Tecnologia Senac Amazonas - FATESE;
 <p align="left">
-  <p align="left">
 👩‍Atuei como professora no curso de Licenciatura em Computação - UEA/CESIT;
-  <p align="left">
+<p align="left">
 👩‍💻Atualmente estou aprendendo sobre front-end e QA;
-  <p align="left">
-🙅‍♀️Estou buscando colaborar com desenvolvimento front-end ou Quality Assurance;
-  <p align="left">
-💁‍♀️Busco oportunidade em desenvolvimento front-end ou QA;
-  <p align="left">
-🌱Curiosidade: Sou vegetariana, faixa azul de Jiu-Jitsu, adoro animes e ouvir uma boa música, e estou sempre buscando conhecimento.</p>
+<p align="left">
+🙅‍♀️Estou buscando oportunidade para colaborar com desenvolvimento front-end ou Quality Assurance para que eu possa colocar minhas competências e habilidades na prática e adquirir mais conhecimento.;
+
+🌱Curiosidade: Sou vegetariana, faixa azul de Jiu-Jitsu, gosto de animes, ouvir uma boa música, sou mega apaixonada por tecnologia e estou sempre buscando conhecimento na área de TI.</p>
 </p>
 <p align="left">
 🧠Pesquisas: Realizo pesquisas na área de Ciência da Computação, com ênfase em Sistemas de Informação, atua principalmente nas áreas de Engenharia de Software, Gestão da Qualidade, Gestão de Projetos, Interação Humano Computador, desenvolvimento de aplicativos mobile com tecnologia de Realidade Aumentada, Informática na Educação, Robótica Educacional, cultura Maker e metodologias ativas no processo de ensino e aprendizagem.</p>
@@ -54,7 +51,7 @@
   </a>
 </div>
 
- ## ⭐️ Habilidades em construção
+ ## ⭐️ Habilidades em construção sempre
 <div align="center">
 
 <div> 
