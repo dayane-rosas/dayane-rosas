@@ -23,7 +23,7 @@
 </div><br>
 
  <p align="left">
-👩‍🎓Mestranda em Science in Emergent Technologies in Education - Must University;
+👩‍🎓Mestranda em Tecnologias Emergentes na Educação - Must University;
 <p align="left">
 👩‍🎓Possuo MBA em Gestão de Projetos, e especialização em Gestão da Qualidade - Uniasselvi;
  <p align="left">
